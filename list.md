@@ -170,3 +170,4 @@
 - [简易 ORM 练习开源仓库 完整源码演示数据库对象映射逻辑](https://github.com/eric-stonekfk/qPHkoz/commit/d96c873540962e2ae5db6998d4895778395adfa9)
 - [SDP软件定义边界，面向AI业务访问控制落地](https://github.com/eric-stonekfk/qPHkoz/commit/046c25fedb8f4cd04f4ccc453e4696024a26296b)
 - [Markdown 文档超链接尽量使用相对路径地址](https://github.com/eric-stonekfk/qPHkoz/commit/5a4156a3b82c0bcdd652f75efb1e928b4478a853)
+- [PPI出现回暖信号，不要轻易判定经济反转](https://github.com/eric-stonekfk/qPHkoz/commit/5ae6305c142ef0f84454773452d66a37315c5db0)
