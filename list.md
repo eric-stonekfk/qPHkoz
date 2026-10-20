@@ -98,3 +98,4 @@
 - [低空经济数字化管控，无人机集群调度技术](https://github.com/eric-stonekfk/qPHkoz/commit/0ec18160970fb1ec4f575b3557db10743ad61342)
 - [字符串多种哈希批量生成，md5 crc32 sha系列批量计算](https://github.com/eric-stonekfk/qPHkoz/commit/5947c750449ae657a1413fbabec52948329053c8)
 - [智能农机租赁普及降低小农户购机门槛](https://github.com/eric-stonekfk/qPHkoz/commit/d2426aaf6e711583a55f465809d12df96ccf91ea)
+- [开源仓库文档区分演示代码和生产环境代码](https://github.com/eric-stonekfk/qPHkoz/commit/a71d946388c884f6d2c7849a99f49129371409ae)
