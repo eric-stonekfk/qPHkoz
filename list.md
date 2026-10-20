@@ -47,3 +47,4 @@
 - [医保全国统筹推进，异地医保规则统一](https://github.com/eric-stonekfk/qPHkoz/commit/ea4ef53901dd98ee5fa718944f13a7a4f37fbe37)
 - [车舱多模态大模型，多乘客语音指令区分识别](https://github.com/eric-stonekfk/qPHkoz/commit/6f115c41b46c337d77200e535c7c5cb5c7109419)
 - [GitHub仓库CodeScanning SARIF解析工具](https://github.com/eric-stonekfk/qPHkoz/commit/d074bbf8b56b46d26eb2163186b8690c1fe4b3f1)
+- [老旧小区物业托管模式，破解物业撤场难题](https://github.com/eric-stonekfk/qPHkoz/commit/10af916d6b8f0232f2b9019c9ef59776af6c1c77)
