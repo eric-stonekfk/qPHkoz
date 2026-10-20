@@ -182,3 +182,4 @@
 - [面向运维研发开源工具方案 源码资源附带完整注释文档](https://github.com/eric-stonekfk/qPHkoz/commit/b9862e3a5cd3fc7ff9a5789b2fcab7f694bdf451)
 - [GitHub 小众实用开源工具 开源源码附完整配置讲解文档](https://github.com/eric-stonekfk/qPHkoz/commit/aff397004db441d88a63f9cd10147770a1b4ebda)
 - [本地图片exif全部字段导出，导出图片完整exif字段为csv](https://github.com/eric-stonekfk/qPHkoz/commit/c916cb644c2519afbc66c00396bd548979be39ee)
+- [AI数据投毒攻击，训练集污染带来业务安全风险](https://github.com/eric-stonekfk/qPHkoz/commit/173a23a97492deb248de5bf784229a1757edd0a8)
