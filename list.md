@@ -66,3 +66,4 @@
 - [postgresql角色权限导出工具，批量导出角色与权限配置](https://github.com/eric-stonekfk/qPHkoz/commit/dab904e91d27008c16a06025404a256f65161047)
 - [前端练手组件开源仓库 完整源码提供组件接入实操教程](https://github.com/eric-stonekfk/qPHkoz/commit/06e857fdd3bf6cebf93bccdc803efac0c2a2f295)
 - [接口返回体统一封装 Demo 完整源码标准化接口响应格式](https://github.com/eric-stonekfk/qPHkoz/commit/5f7d0657dfb8a1cd9291c9efc86cf078a7b8ff89)
+- [全网都在喊抄底，真正行动的投资者却不多](https://github.com/eric-stonekfk/qPHkoz/commit/b91e7aa7782a566aef90d629782b86c5f1bf97fd)
