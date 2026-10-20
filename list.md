@@ -65,3 +65,4 @@
 - [端边网智一体化，通信网络内置AI算力部署实践](https://github.com/eric-stonekfk/qPHkoz/commit/7f74ad146283362ad51c2e436e626fef64add544)
 - [postgresql角色权限导出工具，批量导出角色与权限配置](https://github.com/eric-stonekfk/qPHkoz/commit/dab904e91d27008c16a06025404a256f65161047)
 - [前端练手组件开源仓库 完整源码提供组件接入实操教程](https://github.com/eric-stonekfk/qPHkoz/commit/06e857fdd3bf6cebf93bccdc803efac0c2a2f295)
+- [接口返回体统一封装 Demo 完整源码标准化接口响应格式](https://github.com/eric-stonekfk/qPHkoz/commit/5f7d0657dfb8a1cd9291c9efc86cf078a7b8ff89)
