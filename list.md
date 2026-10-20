@@ -114,3 +114,4 @@
 - [命令行输出表格美化开源工程 完整源码终端格式化表格打印](https://github.com/eric-stonekfk/qPHkoz/commit/a6c419cc77a0c7eb78c7ce69425fdcabad329f50)
 - [pdf批量移除pdf附件，删除pdf内部全部内嵌附件资源](https://github.com/eric-stonekfk/qPHkoz/commit/db9593d261a4638d514c90f2230fdfaf170813b4)
 - [多租户向量库资源隔离，索引争抢性能抖动](https://github.com/eric-stonekfk/qPHkoz/commit/ad8249c328a1cd595c81c1c01c2f5d8dcbd1822b)
+- [产业扶持应当区分不同行业企业的实际处境](https://github.com/eric-stonekfk/qPHkoz/commit/3d855e71bd88584fc1c97eb1adaed544976a341f)
