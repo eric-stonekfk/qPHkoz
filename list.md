@@ -169,3 +169,4 @@
 - [大模型本地函数调用插件框架，自定义工具扩展快速搭建Agent应用](https://github.com/eric-stonekfk/qPHkoz/commit/296711718c1820cc6a282c6631e0902c30f09fd1)
 - [简易 ORM 练习开源仓库 完整源码演示数据库对象映射逻辑](https://github.com/eric-stonekfk/qPHkoz/commit/d96c873540962e2ae5db6998d4895778395adfa9)
 - [SDP软件定义边界，面向AI业务访问控制落地](https://github.com/eric-stonekfk/qPHkoz/commit/046c25fedb8f4cd04f4ccc453e4696024a26296b)
+- [Markdown 文档超链接尽量使用相对路径地址](https://github.com/eric-stonekfk/qPHkoz/commit/5a4156a3b82c0bcdd652f75efb1e928b4478a853)
