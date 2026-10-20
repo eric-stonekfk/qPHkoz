@@ -100,3 +100,4 @@
 - [智能农机租赁普及降低小农户购机门槛](https://github.com/eric-stonekfk/qPHkoz/commit/d2426aaf6e711583a55f465809d12df96ccf91ea)
 - [开源仓库文档区分演示代码和生产环境代码](https://github.com/eric-stonekfk/qPHkoz/commit/a71d946388c884f6d2c7849a99f49129371409ae)
 - [区块链作为AI底层底座，可信日志与溯源实践](https://github.com/eric-stonekfk/qPHkoz/commit/a5f9a784c3c339390eb3f61cb94fc5801da63e55)
+- [本地优先AI应用，多端记忆CRDT冲突同步](https://github.com/eric-stonekfk/qPHkoz/commit/0bfd21656224723f1e52aada9119ce436e4caa10)
