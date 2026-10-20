@@ -15,3 +15,4 @@
 - [百万级 Excel 读写源码 完整源码大批量表格导入导出](https://github.com/eric-stonekfk/qPHkoz/commit/0d87ad0b986691feaf0c3be3418a714c8b1e87f3)
 - [向量检索结果缓存，降低高频业务推理开销](https://github.com/eric-stonekfk/qPHkoz/commit/6ca99299101d408a61076cc09a3bf2e1fca43ad1)
 - [开源项目衍生作品，静态链接动态链接协议界定](https://github.com/eric-stonekfk/qPHkoz/commit/dd75d1a0d5aaae8637d63dca88c087f767201d3f)
+- [港股出现修复行情，切勿把反弹误判大牛市](https://github.com/eric-stonekfk/qPHkoz/commit/7fdde5ab4e2c50263718bdf4d369609ed5d7bb03)
