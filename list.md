@@ -199,3 +199,4 @@
 - [TCP 连接池简易模拟开源仓库 完整源码 tcp 连接复用管理](https://github.com/eric-stonekfk/qPHkoz/commit/d576192e208f2d32430f5d79f90a3952b50df1a9)
 - [农村人居环境整治反弹现象剖析](https://github.com/eric-stonekfk/qPHkoz/commit/a93c7855572f235b4337deb908ed1aeea615b172)
 - [雪花分布式 ID 生成源码 完整源码适配多机器节点生成 ID](https://github.com/eric-stonekfk/qPHkoz/commit/51450d533bef7aa83db1980737e2b61a43ff7349)
+- [自建 HTTPS 测试服务开源 Demo 完整源码生成自签名证书](https://github.com/eric-stonekfk/qPHkoz/commit/e4b5dc9ff0fa8d184e3d78b19eae11e46cabae3b)
