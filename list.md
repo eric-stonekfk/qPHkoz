@@ -36,3 +36,4 @@
 - [CVE编号申请被驳回，漏洞描述不规范常见原因](https://github.com/eric-stonekfk/qPHkoz/commit/ad8dfa59b49f793a5f1215f92b8ec5849081f3e4)
 - [社区商业倒闭潮背后多重现实因素](https://github.com/eric-stonekfk/qPHkoz/commit/beae02752f98733e28bb28d4702db08fe6aa35df)
 - [异构算力池化，GPU/NPU/存算一体混合资源调度](https://github.com/eric-stonekfk/qPHkoz/commit/42d3a200447e85dab8ff53c93b823f858066c60d)
+- [开源轻量解决方案 完整源码附从零开始搭建示例](https://github.com/eric-stonekfk/qPHkoz/commit/8dd014c9d356ae63a5064b40e8840e5e2c56a6d1)
