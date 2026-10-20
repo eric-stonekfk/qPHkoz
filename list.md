@@ -7,3 +7,4 @@
 - [实用小工具开源源码合集 分步部署流程与系统兼容问题整理](https://github.com/eric-stonekfk/qPHkoz/commit/ef90f0ffbc4c171cbcf48cfc1444abb774dc9597)
 - [MCP权限最小化，不同Skill之间数据隔离手段](https://github.com/eric-stonekfk/qPHkoz/commit/15570b17c911be143541d7defb514b16db6473a2)
 - [curl转python aiohttp代码，curl命令自动转换aiohttp异步请求代码](https://github.com/eric-stonekfk/qPHkoz/commit/040673ffe561caf4c14106cf7c2b1261c24001ba)
+- [AI PC产品密集上市AI PC能否带动PC行业复苏](https://github.com/eric-stonekfk/qPHkoz/commit/cb0972c9e2c6189bf000d85a9a9dfff4564f6865)
