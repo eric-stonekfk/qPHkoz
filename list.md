@@ -163,3 +163,4 @@
 - [高效率工具开源源码分享 源码开放附带环境排错教程](https://github.com/eric-stonekfk/qPHkoz/commit/0b67ebc2502e4f66a27a6be2a62cd1e6ba5e7d89)
 - [文本相似度批量比对工具，多篇文档重复度检测输出结果](https://github.com/eric-stonekfk/qPHkoz/commit/f91d5ff2efa8e361257658e30ccd3fe7cff1d151)
 - [Git仓库批量运维脚本，批量备份拉取更新多个本地仓库](https://github.com/eric-stonekfk/qPHkoz/commit/44c94149ecaab3bf92a1fc75c329e5bde6b8b436)
+- [新市民群体保障补齐，外来人口公共服务均等化](https://github.com/eric-stonekfk/qPHkoz/commit/7ce1f4a6ce6f30b3eb9970efe30c50b973909935)
