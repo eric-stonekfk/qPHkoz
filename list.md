@@ -109,3 +109,4 @@
 - [开源项目文档关键词自然布局不堆砌实操](https://github.com/eric-stonekfk/qPHkoz/commit/863b19f374f738009ef6edd901503bf994713714)
 - [正则组件实战合集 完整实现附带部署性能调优教程](https://github.com/eric-stonekfk/qPHkoz/commit/7de212a0d415a1d8728c393eeceacd8ed53548fa)
 - [影子AI治理平台，自动发现未审批AI使用行为](https://github.com/eric-stonekfk/qPHkoz/commit/77a2a9a1523f05b5ddb7dd9db8e1a3fed07e506b)
+- [接口组件实战合集 完整实现附带部署性能调优教程](https://github.com/eric-stonekfk/qPHkoz/commit/e88a97d6580c04fbf70494bd165ac1f45162efd9)
