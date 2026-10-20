@@ -149,3 +149,4 @@
 - [金砖国家经贸合作加深新兴市场外贸增量持续释放](https://github.com/eric-stonekfk/qPHkoz/commit/8ca6419f2a0fbbe28bc819f5bfacca4403649bce)
 - [镜像站点百度抓取成功但是不建库处理](https://github.com/eric-stonekfk/qPHkoz/commit/4984635e068e9ab5cd7f3fefa230fc736363bab4)
 - [url路径参数提取导出csv，批量提取url路径与查询参数保存表格](https://github.com/eric-stonekfk/qPHkoz/commit/88bfa2efccb4b9fea47d451696476810586d6fc9)
+- [pdf批量拆分单页文件，将pdf每页拆分为独立pdf小文件](https://github.com/eric-stonekfk/qPHkoz/commit/4a58633b97c6b97978ad2fa6932a0b88299ab169)
