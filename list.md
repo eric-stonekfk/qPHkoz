@@ -123,3 +123,4 @@
 - [企业大量使用开源组件，却不回馈社区的现实矛盾](https://github.com/eric-stonekfk/qPHkoz/commit/602313a1a0aedfcd12c32214cbe0cbde59e35f6f)
 - [堆排序大小堆 Demo 完整源码大顶堆小顶堆完整实现](https://github.com/eric-stonekfk/qPHkoz/commit/fd63863fdcf76df95c0b62a06c4fe82e21671219)
 - [文件完整性哈希校验开源仓库 完整源码 md5 sha 校验工具](https://github.com/eric-stonekfk/qPHkoz/commit/c2e6a766a2faf4df7c318b3627cdf726a5f0b867)
+- [AI辅助司法普及，纠纷调解智能化利弊](https://github.com/eric-stonekfk/qPHkoz/commit/a209a77edf9994f928e5b8388352802c0ff72adb)
