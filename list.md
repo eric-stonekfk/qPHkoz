@@ -184,3 +184,4 @@
 - [本地图片exif全部字段导出，导出图片完整exif字段为csv](https://github.com/eric-stonekfk/qPHkoz/commit/c916cb644c2519afbc66c00396bd548979be39ee)
 - [AI数据投毒攻击，训练集污染带来业务安全风险](https://github.com/eric-stonekfk/qPHkoz/commit/173a23a97492deb248de5bf784229a1757edd0a8)
 - [CMake脚本硬编码路径，跨机器编译失败](https://github.com/eric-stonekfk/qPHkoz/commit/46651987a1a22dfb1504eebf13043751d88adbf5)
+- [中药材种植基地规范化源头把控中药产业质量关口](https://github.com/eric-stonekfk/qPHkoz/commit/c6c38010a7e17c2cd9c96ff1bc81403d68e70f70)
