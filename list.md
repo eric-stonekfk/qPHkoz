@@ -108,3 +108,4 @@
 - [http 请求连接池开源工程 完整源码复用 http 连接减少开销](https://github.com/eric-stonekfk/qPHkoz/commit/64e84cae762904adf21fd452d6e49e9d277abc2e)
 - [开源项目文档关键词自然布局不堆砌实操](https://github.com/eric-stonekfk/qPHkoz/commit/863b19f374f738009ef6edd901503bf994713714)
 - [正则组件实战合集 完整实现附带部署性能调优教程](https://github.com/eric-stonekfk/qPHkoz/commit/7de212a0d415a1d8728c393eeceacd8ed53548fa)
+- [影子AI治理平台，自动发现未审批AI使用行为](https://github.com/eric-stonekfk/qPHkoz/commit/77a2a9a1523f05b5ddb7dd9db8e1a3fed07e506b)
