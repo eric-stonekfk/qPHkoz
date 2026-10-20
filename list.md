@@ -165,3 +165,4 @@
 - [Git仓库批量运维脚本，批量备份拉取更新多个本地仓库](https://github.com/eric-stonekfk/qPHkoz/commit/44c94149ecaab3bf92a1fc75c329e5bde6b8b436)
 - [新市民群体保障补齐，外来人口公共服务均等化](https://github.com/eric-stonekfk/qPHkoz/commit/7ce1f4a6ce6f30b3eb9970efe30c50b973909935)
 - [软体家具出口保持韧性家居企业海外市场拓展现状](https://github.com/eric-stonekfk/qPHkoz/commit/4404e327c1c7d5bf43d0cda26635e2d34a6f062a)
+- [气候移民社会讨论，极端天气人口迁移影响](https://github.com/eric-stonekfk/qPHkoz/commit/f041807a23568e64cdd5e6a72fe19fa128b1313b)
