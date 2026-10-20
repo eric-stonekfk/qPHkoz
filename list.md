@@ -167,3 +167,4 @@
 - [软体家具出口保持韧性家居企业海外市场拓展现状](https://github.com/eric-stonekfk/qPHkoz/commit/4404e327c1c7d5bf43d0cda26635e2d34a6f062a)
 - [气候移民社会讨论，极端天气人口迁移影响](https://github.com/eric-stonekfk/qPHkoz/commit/f041807a23568e64cdd5e6a72fe19fa128b1313b)
 - [大模型本地函数调用插件框架，自定义工具扩展快速搭建Agent应用](https://github.com/eric-stonekfk/qPHkoz/commit/296711718c1820cc6a282c6631e0902c30f09fd1)
+- [简易 ORM 练习开源仓库 完整源码演示数据库对象映射逻辑](https://github.com/eric-stonekfk/qPHkoz/commit/d96c873540962e2ae5db6998d4895778395adfa9)
