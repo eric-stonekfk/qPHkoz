@@ -101,3 +101,4 @@
 - [开源仓库文档区分演示代码和生产环境代码](https://github.com/eric-stonekfk/qPHkoz/commit/a71d946388c884f6d2c7849a99f49129371409ae)
 - [区块链作为AI底层底座，可信日志与溯源实践](https://github.com/eric-stonekfk/qPHkoz/commit/a5f9a784c3c339390eb3f61cb94fc5801da63e55)
 - [本地优先AI应用，多端记忆CRDT冲突同步](https://github.com/eric-stonekfk/qPHkoz/commit/0bfd21656224723f1e52aada9119ce436e4caa10)
+- [非结构化数据治理，文档图片音视频资产盘点](https://github.com/eric-stonekfk/qPHkoz/commit/5b155bb8b548a55b02e707f3051d1ccd05e9eb38)
