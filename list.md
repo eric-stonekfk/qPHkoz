@@ -118,3 +118,4 @@
 - [消息消费幂等处理源码 完整源码避免重复消费消息](https://github.com/eric-stonekfk/qPHkoz/commit/af6dbcd28f179bfe87b476ff46451f23d1abce66)
 - [github仓库secret‑scanning泄露告警导出，批量导出密钥泄露告警列表](https://github.com/eric-stonekfk/qPHkoz/commit/628ff431cc2184b7d284c98787141264afaf869a)
 - [GitHub仓库Codeowners责任人匹配解析工具](https://github.com/eric-stonekfk/qPHkoz/commit/39018070a142086351705aa9fefc2e447398713e)
+- [跨平台文件工具开源组件 源码资源含多环境测试演示工程](https://github.com/eric-stonekfk/qPHkoz/commit/f8f57975684ed7a5cb863163d52765ada99a7f1e)
