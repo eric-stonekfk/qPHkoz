@@ -41,3 +41,4 @@
 - [ftp批量同步备份脚本，本地目录与ftp双向增量同步备份](https://github.com/eric-stonekfk/qPHkoz/commit/888ca3f1ed46fae1e7bbe140f19aed7c85a18bf1)
 - [通用业务配置模板仓库 完整源码收集各类业务参考模板](https://github.com/eric-stonekfk/qPHkoz/commit/80603c66eaeca7fa928dbffafc182d199104e1c8)
 - [数据库索引分析脚本，识别冗余缺失索引给出建议](https://github.com/eric-stonekfk/qPHkoz/commit/040e4e1d124577ded1a46a4a83f3c9611f082d79)
+- [AI数据集跨境流动，数据出境合规审查难点](https://github.com/eric-stonekfk/qPHkoz/commit/3b04386f5f2c3525c99d56cf9e31ff7a5f559068)
