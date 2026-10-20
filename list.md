@@ -94,3 +94,4 @@
 - [文件批量备份开源源码 完整源码定时备份目录与数据库](https://github.com/eric-stonekfk/qPHkoz/commit/6e5f0a2b2df68c13dd24add03357c5892952ee00)
 - [缺少ARM64 CI构建，ARM服务器部署频频报错](https://github.com/eric-stonekfk/qPHkoz/commit/70417e497bf965b8ef5a059ea4ee2b8b4c437bd4)
 - [开箱部署开源源码分享 源码资源含多场景使用参考案例](https://github.com/eric-stonekfk/qPHkoz/commit/655453d308c9b5ccd2d073f279868e7f995888da)
+- [中年职场危机，三十五岁就业困境如何破局](https://github.com/eric-stonekfk/qPHkoz/commit/d23a4ad3029a46aa23dfa248b7c40fb3ff29a3c7)
