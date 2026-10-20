@@ -20,3 +20,4 @@
 - [开源项目文档区分新手与进阶阅读内容](https://github.com/eric-stonekfk/qPHkoz/commit/c13d9f58f7f5248f7beb01678b82cf0b294d71ae)
 - [支持自定义拓展开源项目 源码资源配套业务重构改造文档](https://github.com/eric-stonekfk/qPHkoz/commit/a3200d03f916a052cc89368b9516885287c79a8e)
 - [GitHub 轻量开源资源库 可运行源码包含故障处理示例](https://github.com/eric-stonekfk/qPHkoz/commit/7ecc9e849331d224cc8e6fed5a378e4e3a89742f)
+- [多场景实用开源小工具 完整源码与本地部署排错文档](https://github.com/eric-stonekfk/qPHkoz/commit/44752e477ed46885c8521392956b5db83e0ef694)
