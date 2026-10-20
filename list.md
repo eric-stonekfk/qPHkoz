@@ -103,3 +103,4 @@
 - [本地优先AI应用，多端记忆CRDT冲突同步](https://github.com/eric-stonekfk/qPHkoz/commit/0bfd21656224723f1e52aada9119ce436e4caa10)
 - [非结构化数据治理，文档图片音视频资产盘点](https://github.com/eric-stonekfk/qPHkoz/commit/5b155bb8b548a55b02e707f3051d1ccd05e9eb38)
 - [jwt密钥爆破测试工具，本地测试弱密钥识别可破解jwt](https://github.com/eric-stonekfk/qPHkoz/commit/e2a7e67c66b4a8ce9fa2bb0c5ee33ebef52cfd13)
+- [慈善公益数字化，网络募捐监管进一步收紧](https://github.com/eric-stonekfk/qPHkoz/commit/05605276a19b8a8f8c70694e1be4db9f5e9e2a9e)
