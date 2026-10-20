@@ -128,3 +128,4 @@
 - [AI芯片国产替代持续攻坚算力芯片供应链自主可控进程观察](https://github.com/eric-stonekfk/qPHkoz/commit/6f6af1e617fd9f944da64e0faa143801bda3c631)
 - [github release批量生成脚本，根据tag自动生成release正文](https://github.com/eric-stonekfk/qPHkoz/commit/684db23318fcdc015619cf923dea48a7e3093390)
 - [数字政务建设，如何切实降低企业制度性交易成本](https://github.com/eric-stonekfk/qPHkoz/commit/85cfc088f972eb11464c9b386ec60073cd5f52c8)
+- [开源数字人项目，肖像权风险如何规避](https://github.com/eric-stonekfk/qPHkoz/commit/bd5b77c69455ea8aff6e774d95107db26e97a41b)
