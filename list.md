@@ -46,3 +46,4 @@
 - [异构算力混合池化，GPU/NPU存算一体资源调度](https://github.com/eric-stonekfk/qPHkoz/commit/9f47352a22a8e741d0f2621fcc7e92a7c024a81c)
 - [医保全国统筹推进，异地医保规则统一](https://github.com/eric-stonekfk/qPHkoz/commit/ea4ef53901dd98ee5fa718944f13a7a4f37fbe37)
 - [车舱多模态大模型，多乘客语音指令区分识别](https://github.com/eric-stonekfk/qPHkoz/commit/6f115c41b46c337d77200e535c7c5cb5c7109419)
+- [GitHub仓库CodeScanning SARIF解析工具](https://github.com/eric-stonekfk/qPHkoz/commit/d074bbf8b56b46d26eb2163186b8690c1fe4b3f1)
