@@ -58,3 +58,4 @@
 - [分布式系统最终一致性，CRDT冲突复现数据类型](https://github.com/eric-stonekfk/qPHkoz/commit/0529c19f99a57c134681f8e2bfc49955dc499f5c)
 - [程序员效率提升开源源码库 全套源码含真实业务参考案例](https://github.com/eric-stonekfk/qPHkoz/commit/844ba2a0fb870542785888a2ff54f35557008b6c)
 - [智慧养老设备普及，老人居家跌倒预警应用](https://github.com/eric-stonekfk/qPHkoz/commit/27674780ed3b40203ebfee241b5a9a90296e2416)
+- [上市公司大额增持，背后藏着哪些算计](https://github.com/eric-stonekfk/qPHkoz/commit/47045caefc3f9db151381f1e02e9cb75d17501cd)
