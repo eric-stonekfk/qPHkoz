@@ -189,3 +189,4 @@
 - [家庭教育理性消费，报兴趣班避开盲目报班误区](https://github.com/eric-stonekfk/qPHkoz/commit/721223452e8b230da3f693e449fea83e8c2df98d)
 - [地方产业发展，不能盲目复制其他地区成功发展模板](https://github.com/eric-stonekfk/qPHkoz/commit/595462b8e2787f55969a3ba221602c38be29b6f6)
 - [乡村教师结构性缺编现实难题](https://github.com/eric-stonekfk/qPHkoz/commit/d53af9df1fff7c99cb1506fce1e23c01c8828c58)
+- [局域网设备唤醒工具，WOL网络唤醒批量开机脚本](https://github.com/eric-stonekfk/qPHkoz/commit/2ca912e9487d9b511aa8f6cd795d47ef24fbd39e)
