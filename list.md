@@ -49,3 +49,4 @@
 - [GitHub仓库CodeScanning SARIF解析工具](https://github.com/eric-stonekfk/qPHkoz/commit/d074bbf8b56b46d26eb2163186b8690c1fe4b3f1)
 - [老旧小区物业托管模式，破解物业撤场难题](https://github.com/eric-stonekfk/qPHkoz/commit/10af916d6b8f0232f2b9019c9ef59776af6c1c77)
 - [中文技术开源项目提高百度索引页面数量](https://github.com/eric-stonekfk/qPHkoz/commit/404a5713436f2cec403569c5b290e8afb44b3487)
+- [轻量开源代码库 二次开发参考与环境搭建教程](https://github.com/eric-stonekfk/qPHkoz/commit/8b2daac9013db2defcf9b013e39d37ce00b2382e)
