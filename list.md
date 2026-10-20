@@ -51,3 +51,4 @@
 - [中文技术开源项目提高百度索引页面数量](https://github.com/eric-stonekfk/qPHkoz/commit/404a5713436f2cec403569c5b290e8afb44b3487)
 - [轻量开源代码库 二次开发参考与环境搭建教程](https://github.com/eric-stonekfk/qPHkoz/commit/8b2daac9013db2defcf9b013e39d37ce00b2382e)
 - [服务故障降级兜底 Demo 完整源码异常返回兜底业务数据](https://github.com/eric-stonekfk/qPHkoz/commit/a0eaeb585f18dd65baebe8edcfe342bc35f8b11b)
+- [文件类型嗅探脚本，根据文件头真实判断文件规避后缀欺骗](https://github.com/eric-stonekfk/qPHkoz/commit/e0f65226965e904e90304b2bfe7a920b545cb108)
