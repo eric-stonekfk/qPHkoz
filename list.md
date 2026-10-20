@@ -60,3 +60,4 @@
 - [智慧养老设备普及，老人居家跌倒预警应用](https://github.com/eric-stonekfk/qPHkoz/commit/27674780ed3b40203ebfee241b5a9a90296e2416)
 - [上市公司大额增持，背后藏着哪些算计](https://github.com/eric-stonekfk/qPHkoz/commit/47045caefc3f9db151381f1e02e9cb75d17501cd)
 - [文件批量处理开源工具库 完整源码附多系统适配部署教程](https://github.com/eric-stonekfk/qPHkoz/commit/7b8a9b76266e6fd495079bc9c1484c22d4d60a8a)
+- [集合数据分组过滤聚合开源仓库 完整源码数组常用运算封装](https://github.com/eric-stonekfk/qPHkoz/commit/74c8fc861248f5812a205a924c24a2de2aadef11)
