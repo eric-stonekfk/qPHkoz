@@ -96,3 +96,4 @@
 - [开箱部署开源源码分享 源码资源含多场景使用参考案例](https://github.com/eric-stonekfk/qPHkoz/commit/655453d308c9b5ccd2d073f279868e7f995888da)
 - [中年职场危机，三十五岁就业困境如何破局](https://github.com/eric-stonekfk/qPHkoz/commit/d23a4ad3029a46aa23dfa248b7c40fb3ff29a3c7)
 - [低空经济数字化管控，无人机集群调度技术](https://github.com/eric-stonekfk/qPHkoz/commit/0ec18160970fb1ec4f575b3557db10743ad61342)
+- [字符串多种哈希批量生成，md5 crc32 sha系列批量计算](https://github.com/eric-stonekfk/qPHkoz/commit/5947c750449ae657a1413fbabec52948329053c8)
