@@ -172,3 +172,4 @@
 - [Markdown 文档超链接尽量使用相对路径地址](https://github.com/eric-stonekfk/qPHkoz/commit/5a4156a3b82c0bcdd652f75efb1e928b4478a853)
 - [PPI出现回暖信号，不要轻易判定经济反转](https://github.com/eric-stonekfk/qPHkoz/commit/5ae6305c142ef0f84454773452d66a37315c5db0)
 - [制造业出口韧性强，却遭遇海外贸易壁垒不断增加](https://github.com/eric-stonekfk/qPHkoz/commit/2642e5ff3bbedcdd7d96e0e8ba3df3e04768df00)
+- [粮价看似波澜不惊，背后暗藏连锁风险](https://github.com/eric-stonekfk/qPHkoz/commit/891406396882c288da2ce49d1018454229181b21)
