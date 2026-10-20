@@ -141,3 +141,4 @@
 - [预发布版本与正式版本区分，版本号规范争议](https://github.com/eric-stonekfk/qPHkoz/commit/56853825b5b8df523f81be7337e8efd63d1a7fb0)
 - [接口返回统一封装开源仓库 完整源码标准化接口返回体](https://github.com/eric-stonekfk/qPHkoz/commit/335ff131fe019a62dc42fea0a615caa0a29c663c)
 - [MCP第三方工具鉴权，OAuth与SSO打通方案](https://github.com/eric-stonekfk/qPHkoz/commit/44ead7fe328cf8eaeec768ceb0454152d163d7ee)
+- [居民医保断缴后果普通人千万不要忽视医保断缴风险](https://github.com/eric-stonekfk/qPHkoz/commit/c2f516e8068a7334a3ebb6c5cba229d5179b3078)
