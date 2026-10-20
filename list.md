@@ -196,3 +196,4 @@
 - [本地简单dns查询客户端，发送原始dns报文解析域名记录](https://github.com/eric-stonekfk/qPHkoz/commit/24131cd8461d7cee85aa5833fc7935d569c0646d)
 - [github仓库action条件表达式本地校验，本地校验if条件表达式正误](https://github.com/eric-stonekfk/qPHkoz/commit/fae12c9fdde5827123d48b9bda3406d5e5723057)
 - [运维研发提效开源源码库 拿来即用源码与真实业务样例](https://github.com/eric-stonekfk/qPHkoz/commit/7692982f77f7e96f8e9555d912df29cd23f79086)
+- [TCP 连接池简易模拟开源仓库 完整源码 tcp 连接复用管理](https://github.com/eric-stonekfk/qPHkoz/commit/d576192e208f2d32430f5d79f90a3952b50df1a9)
