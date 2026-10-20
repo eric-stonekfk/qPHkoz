@@ -29,3 +29,4 @@
 - [开发者实战开源解决方案合集 完整工程包含故障排查指南](https://github.com/eric-stonekfk/qPHkoz/commit/38281cb7a1b80be60fd377655bc8b26d7c6b0a41)
 - [循环经济政策加码再生资源产业迎来政策红利窗口](https://github.com/eric-stonekfk/qPHkoz/commit/0f17cc051962b6ca8c7f5b5901cfd42e6edf3743)
 - [异步任务回调封装开源仓库 完整源码统一处理异步回调逻辑](https://github.com/eric-stonekfk/qPHkoz/commit/c706c9d2c5b6b5fc5826e7e7152b20c709524740)
+- [图片多格式批量转换工程 完整源码 png jpg webp avif 互转](https://github.com/eric-stonekfk/qPHkoz/commit/5be6fa228a1386739f49376cbf0f9da8f71de026)
