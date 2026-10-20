@@ -174,3 +174,4 @@
 - [制造业出口韧性强，却遭遇海外贸易壁垒不断增加](https://github.com/eric-stonekfk/qPHkoz/commit/2642e5ff3bbedcdd7d96e0e8ba3df3e04768df00)
 - [粮价看似波澜不惊，背后暗藏连锁风险](https://github.com/eric-stonekfk/qPHkoz/commit/891406396882c288da2ce49d1018454229181b21)
 - [GitHub用户Star收藏仓库跨账号迁移工具](https://github.com/eric-stonekfk/qPHkoz/commit/c40d025731da6060fcb789b68863df8a405a7019)
+- [请求模拟测试开源工程 完整源码实现多种业务场景模拟](https://github.com/eric-stonekfk/qPHkoz/commit/c75631115ef903772d8ba48f27cef9a3c23c38ab)
