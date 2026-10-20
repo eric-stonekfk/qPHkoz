@@ -92,3 +92,4 @@
 - [API合约测试，保证服务升级不破坏调用方](https://github.com/eric-stonekfk/qPHkoz/commit/9b5207e0439feda98bc0c1a7a4ac793a3100c631)
 - [向量数据库升级灾难，存储格式变更数据不可读](https://github.com/eric-stonekfk/qPHkoz/commit/210deb4a26b01fa0d19dbb9a36f117a7b2c78dec)
 - [文件批量备份开源源码 完整源码定时备份目录与数据库](https://github.com/eric-stonekfk/qPHkoz/commit/6e5f0a2b2df68c13dd24add03357c5892952ee00)
+- [缺少ARM64 CI构建，ARM服务器部署频频报错](https://github.com/eric-stonekfk/qPHkoz/commit/70417e497bf965b8ef5a059ea4ee2b8b4c437bd4)
