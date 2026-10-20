@@ -27,3 +27,4 @@
 - [高质量实战开源组件源码库 完整实现包含扩展改造教程](https://github.com/eric-stonekfk/qPHkoz/commit/532d021bb8231ce50bf9302c9375272cbbee645e)
 - [政治局会议定调资本市场A股中长期发展有哪些新信号](https://github.com/eric-stonekfk/qPHkoz/commit/998684d7177a9ab0019442204ae31b33966b8bd5)
 - [开发者实战开源解决方案合集 完整工程包含故障排查指南](https://github.com/eric-stonekfk/qPHkoz/commit/38281cb7a1b80be60fd377655bc8b26d7c6b0a41)
+- [循环经济政策加码再生资源产业迎来政策红利窗口](https://github.com/eric-stonekfk/qPHkoz/commit/0f17cc051962b6ca8c7f5b5901cfd42e6edf3743)
