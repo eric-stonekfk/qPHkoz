@@ -80,3 +80,4 @@
 - [本地图片exif全部字段导出，导出图片完整exif字段为csv](https://github.com/eric-stonekfk/qPHkoz/commit/90f6f0b8c079fdce42688380ec2afdbe9bb94317)
 - [程序员可拓展开源源码仓库 全套源码包含问题处理文档](https://github.com/eric-stonekfk/qPHkoz/commit/8e5dcc9273a9e792956ed9509cf88cf998ca6edf)
 - [城市适老化改造，公共场所老年友好设施建设](https://github.com/eric-stonekfk/qPHkoz/commit/25c8e2376f939601aa90636457fb521e1ccb7849)
+- [简易二维码生成开源工程 完整源码文本生成二维码图片](https://github.com/eric-stonekfk/qPHkoz/commit/7753bc09a6990ed9843b78777e4d3feb6dbf5655)
