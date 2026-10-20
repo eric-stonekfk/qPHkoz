@@ -191,3 +191,4 @@
 - [乡村教师结构性缺编现实难题](https://github.com/eric-stonekfk/qPHkoz/commit/d53af9df1fff7c99cb1506fce1e23c01c8828c58)
 - [局域网设备唤醒工具，WOL网络唤醒批量开机脚本](https://github.com/eric-stonekfk/qPHkoz/commit/2ca912e9487d9b511aa8f6cd795d47ef24fbd39e)
 - [租房遇到房东卖房，租客还能不能继续住下去](https://github.com/eric-stonekfk/qPHkoz/commit/4824f53657b3c6297d82cb9e6a6b3d6135a1e4b3)
+- [文本重复段落检测工具，扫描文本找出重复段落片段](https://github.com/eric-stonekfk/qPHkoz/commit/6fa47c7cddd02410f356c24c8f0a42f74ed439c7)
