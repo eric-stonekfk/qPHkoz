@@ -72,3 +72,4 @@
 - [高质量开源仓库｜功能完整源码，配置教程 + 问题排错汇总](https://github.com/eric-stonekfk/qPHkoz/commit/455779e28c6a6d6fd5579e1d90a17004f84f1f7a)
 - [终端表格美化 Demo 完整源码格式化输出表格](https://github.com/eric-stonekfk/qPHkoz/commit/fdb9863b580408b63704d26c422cd6c902db6c5e)
 - [社区小微经济，给普通个体带来的生存机会](https://github.com/eric-stonekfk/qPHkoz/commit/7ecfce922ddb01b143a21e0162f91f371a0b6c48)
+- [百度抓取返回 503 服务不可用镜像站解决](https://github.com/eric-stonekfk/qPHkoz/commit/41708adef2d77388699b394afb2e8756f14a1b9b)
