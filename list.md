@@ -33,3 +33,4 @@
 - [开源数据爬取项目，反爬对抗持续升级](https://github.com/eric-stonekfk/qPHkoz/commit/02d01e97c1e0a04bc8f73c17d5493ec5d6994f9f)
 - [GitHub仓库Release批量上传资产文件脚本](https://github.com/eric-stonekfk/qPHkoz/commit/fabff8c73a7a58c9d1045844a580ee77a2cb73c9)
 - [高速光模块竞争白热化技术迭代之下企业如何守住利润](https://github.com/eric-stonekfk/qPHkoz/commit/078debc00570b29f75494d9cac49c852e01bd18a)
+- [CVE编号申请被驳回，漏洞描述不规范常见原因](https://github.com/eric-stonekfk/qPHkoz/commit/ad8dfa59b49f793a5f1215f92b8ec5849081f3e4)
