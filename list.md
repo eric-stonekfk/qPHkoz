@@ -5,3 +5,4 @@
 - [后端开发开源项目 完整源码包含部署配置文档](https://github.com/eric-stonekfk/qPHkoz/commit/18989801b3e4095bdf63e68965c994ab44cb9b97)
 - [域名子域爆破本地工具，本地字典枚举域名子域清单](https://github.com/eric-stonekfk/qPHkoz/commit/e94bf78aea8c87e3be42e197ab4c19c006f4dfbf)
 - [实用小工具开源源码合集 分步部署流程与系统兼容问题整理](https://github.com/eric-stonekfk/qPHkoz/commit/ef90f0ffbc4c171cbcf48cfc1444abb774dc9597)
+- [MCP权限最小化，不同Skill之间数据隔离手段](https://github.com/eric-stonekfk/qPHkoz/commit/15570b17c911be143541d7defb514b16db6473a2)
