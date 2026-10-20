@@ -79,3 +79,4 @@
 - [高校科研成果转化，从实验室走向市场存在多重堵点](https://github.com/eric-stonekfk/qPHkoz/commit/0b18fe3ef440a909a2e04386908979fe6c10a3c2)
 - [本地图片exif全部字段导出，导出图片完整exif字段为csv](https://github.com/eric-stonekfk/qPHkoz/commit/90f6f0b8c079fdce42688380ec2afdbe9bb94317)
 - [程序员可拓展开源源码仓库 全套源码包含问题处理文档](https://github.com/eric-stonekfk/qPHkoz/commit/8e5dcc9273a9e792956ed9509cf88cf998ca6edf)
+- [城市适老化改造，公共场所老年友好设施建设](https://github.com/eric-stonekfk/qPHkoz/commit/25c8e2376f939601aa90636457fb521e1ccb7849)
