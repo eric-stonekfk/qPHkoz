@@ -134,3 +134,4 @@
 - [券商资管业务转型大集合产品向净值化全面过渡](https://github.com/eric-stonekfk/qPHkoz/commit/c658ac18a86749efb084d16c7e0ac885c47ccc69)
 - [数字普惠金融，便利同时防范小微借贷风险](https://github.com/eric-stonekfk/qPHkoz/commit/e690e79daae2521beadd7dda5fb6fa0877f44905)
 - [Release不写变更日志，升级用户不知道改动](https://github.com/eric-stonekfk/qPHkoz/commit/10f813471848fa492027bce68d18d6db3ad49c49)
+- [docker镜像批量导出备份，批量导出镜像保存压缩归档](https://github.com/eric-stonekfk/qPHkoz/commit/896cb1fbb3fc60a8f32d491298d1e4e7d5d8811a)
