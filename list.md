@@ -135,3 +135,4 @@
 - [数字普惠金融，便利同时防范小微借贷风险](https://github.com/eric-stonekfk/qPHkoz/commit/e690e79daae2521beadd7dda5fb6fa0877f44905)
 - [Release不写变更日志，升级用户不知道改动](https://github.com/eric-stonekfk/qPHkoz/commit/10f813471848fa492027bce68d18d6db3ad49c49)
 - [docker镜像批量导出备份，批量导出镜像保存压缩归档](https://github.com/eric-stonekfk/qPHkoz/commit/896cb1fbb3fc60a8f32d491298d1e4e7d5d8811a)
+- [git lfs指针完整性校验，校验lfs指针文件格式与哈希](https://github.com/eric-stonekfk/qPHkoz/commit/275118c78e2bfeffebb8f41ac89802ed0d0fdb1b)
