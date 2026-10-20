@@ -25,3 +25,4 @@
 - [Git子模块指向错误commit，子模块HEAD游离状态](https://github.com/eric-stonekfk/qPHkoz/commit/1aec34e6db3c7670b8a73df918293134ea0f5a75)
 - [网页静态归档保存工具，去除广告冗余保留原始网页排版](https://github.com/eric-stonekfk/qPHkoz/commit/94b854c10cc6d4a180992f1b13cdfc057df7c7c0)
 - [高质量实战开源组件源码库 完整实现包含扩展改造教程](https://github.com/eric-stonekfk/qPHkoz/commit/532d021bb8231ce50bf9302c9375272cbbee645e)
+- [政治局会议定调资本市场A股中长期发展有哪些新信号](https://github.com/eric-stonekfk/qPHkoz/commit/998684d7177a9ab0019442204ae31b33966b8bd5)
