@@ -11,3 +11,4 @@
 - [批量 url 并发探测 Demo 完整源码多协程检测链接存活](https://github.com/eric-stonekfk/qPHkoz/commit/b13aa726195eb505b6a2ff2f8cf3722140592a1a)
 - [消费基础设施REITs推进商业资产打通资本退出渠道](https://github.com/eric-stonekfk/qPHkoz/commit/7408fdbdcccfc90e31932a0f3d781bf4b1da16c8)
 - [别迷信高股息避险，市场杀跌照样大幅亏损](https://github.com/eric-stonekfk/qPHkoz/commit/4dc81a3c6ef0149ee67898e9b34c651b737384fc)
+- [短剧AI应用板块持续走强，AI赋能文娱产业打开增长空间](https://github.com/eric-stonekfk/qPHkoz/commit/81a90763834af59e14cf0c59844a8157bb6ad609)
