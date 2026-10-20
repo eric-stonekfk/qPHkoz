@@ -23,3 +23,4 @@
 - [多场景实用开源小工具 完整源码与本地部署排错文档](https://github.com/eric-stonekfk/qPHkoz/commit/44752e477ed46885c8521392956b5db83e0ef694)
 - [自托管踩坑实录，普通运维扛不住复杂开源组件](https://github.com/eric-stonekfk/qPHkoz/commit/c7582e60375d5b13724c48900546225a43752d8e)
 - [Git子模块指向错误commit，子模块HEAD游离状态](https://github.com/eric-stonekfk/qPHkoz/commit/1aec34e6db3c7670b8a73df918293134ea0f5a75)
+- [网页静态归档保存工具，去除广告冗余保留原始网页排版](https://github.com/eric-stonekfk/qPHkoz/commit/94b854c10cc6d4a180992f1b13cdfc057df7c7c0)
