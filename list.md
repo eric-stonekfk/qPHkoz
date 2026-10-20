@@ -194,3 +194,4 @@
 - [文本重复段落检测工具，扫描文本找出重复段落片段](https://github.com/eric-stonekfk/qPHkoz/commit/6fa47c7cddd02410f356c24c8f0a42f74ed439c7)
 - [目录文件统计报表生成，统计目录各类文件大小数量输出html](https://github.com/eric-stonekfk/qPHkoz/commit/21656ea5fe7a78041de3e6183b130a59149ae887)
 - [本地简单dns查询客户端，发送原始dns报文解析域名记录](https://github.com/eric-stonekfk/qPHkoz/commit/24131cd8461d7cee85aa5833fc7935d569c0646d)
+- [github仓库action条件表达式本地校验，本地校验if条件表达式正误](https://github.com/eric-stonekfk/qPHkoz/commit/fae12c9fdde5827123d48b9bda3406d5e5723057)
