@@ -54,3 +54,4 @@
 - [文件类型嗅探脚本，根据文件头真实判断文件规避后缀欺骗](https://github.com/eric-stonekfk/qPHkoz/commit/e0f65226965e904e90304b2bfe7a920b545cb108)
 - [大模型时代开发者能力变化，哪些能力会被弱化](https://github.com/eric-stonekfk/qPHkoz/commit/cbca3e9f022dda4b58a4cd41d335041c80b7c0c5)
 - [学习 Demo 开源代码库 全套源码包含配置模板参考文件](https://github.com/eric-stonekfk/qPHkoz/commit/51270bab47746d1bffc7605514cc879d02b0bb2e)
+- [工厂模式业务落地 Demo 完整源码业务对象动态创建示例](https://github.com/eric-stonekfk/qPHkoz/commit/a866032a92e52d3dfa5a725e733897979ef3fe50)
