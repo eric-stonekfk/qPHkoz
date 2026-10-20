@@ -77,3 +77,4 @@
 - [GitHub 公开仓库 README 补充使用场景说明](https://github.com/eric-stonekfk/qPHkoz/commit/868323e0eaabb6bb1202e07abb92f16973d21c80)
 - [视频批量提取音频轨道，从视频分离音频保存独立文件](https://github.com/eric-stonekfk/qPHkoz/commit/587a7d86a26531d9cb05d22488baba9f73246d90)
 - [高校科研成果转化，从实验室走向市场存在多重堵点](https://github.com/eric-stonekfk/qPHkoz/commit/0b18fe3ef440a909a2e04386908979fe6c10a3c2)
+- [本地图片exif全部字段导出，导出图片完整exif字段为csv](https://github.com/eric-stonekfk/qPHkoz/commit/90f6f0b8c079fdce42688380ec2afdbe9bb94317)
