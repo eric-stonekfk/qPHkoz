@@ -132,3 +132,4 @@
 - [图片批量图片灰度转换，批量将彩色图片转为灰度图](https://github.com/eric-stonekfk/qPHkoz/commit/281a179a0a7a80a93171727c2a6a9487f0b54394)
 - [商业银行净息差逐步企稳，银行业盈利压力得到缓解](https://github.com/eric-stonekfk/qPHkoz/commit/677b613dcb13401cc82bcfedbe75f9c85f291dcb)
 - [券商资管业务转型大集合产品向净值化全面过渡](https://github.com/eric-stonekfk/qPHkoz/commit/c658ac18a86749efb084d16c7e0ac885c47ccc69)
+- [数字普惠金融，便利同时防范小微借贷风险](https://github.com/eric-stonekfk/qPHkoz/commit/e690e79daae2521beadd7dda5fb6fa0877f44905)
