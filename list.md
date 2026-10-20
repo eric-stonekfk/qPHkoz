@@ -150,3 +150,4 @@
 - [镜像站点百度抓取成功但是不建库处理](https://github.com/eric-stonekfk/qPHkoz/commit/4984635e068e9ab5cd7f3fefa230fc736363bab4)
 - [url路径参数提取导出csv，批量提取url路径与查询参数保存表格](https://github.com/eric-stonekfk/qPHkoz/commit/88bfa2efccb4b9fea47d451696476810586d6fc9)
 - [pdf批量拆分单页文件，将pdf每页拆分为独立pdf小文件](https://github.com/eric-stonekfk/qPHkoz/commit/4a58633b97c6b97978ad2fa6932a0b88299ab169)
+- [消息推送聚合服务，多渠道消息定时推送失败重试组件](https://github.com/eric-stonekfk/qPHkoz/commit/98fe36c5672b8d7502284c1d2efc6dad27b64db3)
