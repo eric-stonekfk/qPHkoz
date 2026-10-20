@@ -102,3 +102,4 @@
 - [区块链作为AI底层底座，可信日志与溯源实践](https://github.com/eric-stonekfk/qPHkoz/commit/a5f9a784c3c339390eb3f61cb94fc5801da63e55)
 - [本地优先AI应用，多端记忆CRDT冲突同步](https://github.com/eric-stonekfk/qPHkoz/commit/0bfd21656224723f1e52aada9119ce436e4caa10)
 - [非结构化数据治理，文档图片音视频资产盘点](https://github.com/eric-stonekfk/qPHkoz/commit/5b155bb8b548a55b02e707f3051d1ccd05e9eb38)
+- [jwt密钥爆破测试工具，本地测试弱密钥识别可破解jwt](https://github.com/eric-stonekfk/qPHkoz/commit/e2a7e67c66b4a8ce9fa2bb0c5ee33ebef52cfd13)
