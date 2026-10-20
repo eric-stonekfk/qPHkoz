@@ -154,3 +154,4 @@
 - [本地csv数据可视化网页，浏览器上传csv生成简易图表](https://github.com/eric-stonekfk/qPHkoz/commit/370ca01489ea4db624a195f4fde2a15177968634)
 - [板块快速轮动，追热点永远慢半拍](https://github.com/eric-stonekfk/qPHkoz/commit/c8c628aa20926aa6eef5f9f02dd9d976a22c872a)
 - [家庭教育指导站全覆盖，普惠家庭教育服务](https://github.com/eric-stonekfk/qPHkoz/commit/d4ff309e825b0c0c1af4a33a96e439418a2906b4)
+- [开源后台模板，XSS漏洞长期不修复](https://github.com/eric-stonekfk/qPHkoz/commit/3c970c95d12aa1e6699d749a7fd3f495cc54e9e6)
