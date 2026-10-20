@@ -76,3 +76,4 @@
 - [开发提效类开源源码仓库 拿来即用源码与真实业务场景](https://github.com/eric-stonekfk/qPHkoz/commit/cd7bf25d62d96a2dd899c895dc97880f7c484462)
 - [GitHub 公开仓库 README 补充使用场景说明](https://github.com/eric-stonekfk/qPHkoz/commit/868323e0eaabb6bb1202e07abb92f16973d21c80)
 - [视频批量提取音频轨道，从视频分离音频保存独立文件](https://github.com/eric-stonekfk/qPHkoz/commit/587a7d86a26531d9cb05d22488baba9f73246d90)
+- [高校科研成果转化，从实验室走向市场存在多重堵点](https://github.com/eric-stonekfk/qPHkoz/commit/0b18fe3ef440a909a2e04386908979fe6c10a3c2)
