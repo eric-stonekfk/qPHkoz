@@ -69,3 +69,4 @@
 - [全网都在喊抄底，真正行动的投资者却不多](https://github.com/eric-stonekfk/qPHkoz/commit/b91e7aa7782a566aef90d629782b86c5f1bf97fd)
 - [大csv文件分片查询工具，不加载全量csv筛选匹配数据行](https://github.com/eric-stonekfk/qPHkoz/commit/2a7c053a24aef3fa28e4e1c22cb3c18c24c3387d)
 - [本地网页截图批量工具，批量访问url保存网页截图](https://github.com/eric-stonekfk/qPHkoz/commit/11722adac3c902afe9cd804f67d27cddf73081b7)
+- [高质量开源仓库｜功能完整源码，配置教程 + 问题排错汇总](https://github.com/eric-stonekfk/qPHkoz/commit/455779e28c6a6d6fd5579e1d90a17004f84f1f7a)
