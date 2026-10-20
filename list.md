@@ -17,3 +17,4 @@
 - [开源项目衍生作品，静态链接动态链接协议界定](https://github.com/eric-stonekfk/qPHkoz/commit/dd75d1a0d5aaae8637d63dca88c087f767201d3f)
 - [港股出现修复行情，切勿把反弹误判大牛市](https://github.com/eric-stonekfk/qPHkoz/commit/7fdde5ab4e2c50263718bdf4d369609ed5d7bb03)
 - [数据要素政策密集出台，商业化变现依旧艰难](https://github.com/eric-stonekfk/qPHkoz/commit/e02afbbbf6d165cd3784f710f81b91ec71e58f8a)
+- [开源项目文档区分新手与进阶阅读内容](https://github.com/eric-stonekfk/qPHkoz/commit/c13d9f58f7f5248f7beb01678b82cf0b294d71ae)
