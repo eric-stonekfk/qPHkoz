@@ -180,3 +180,4 @@
 - [请求超时处理开源工程 完整源码处理接口超时异常场景](https://github.com/eric-stonekfk/qPHkoz/commit/79b874f490d2e917957d3e1f9e6c3ecf27b065d2)
 - [量化规则持续优化，散户赚钱依旧困难重重](https://github.com/eric-stonekfk/qPHkoz/commit/b27a0a360a7206623c3fc425e78321eb63b7abdb)
 - [面向运维研发开源工具方案 源码资源附带完整注释文档](https://github.com/eric-stonekfk/qPHkoz/commit/b9862e3a5cd3fc7ff9a5789b2fcab7f694bdf451)
+- [GitHub 小众实用开源工具 开源源码附完整配置讲解文档](https://github.com/eric-stonekfk/qPHkoz/commit/aff397004db441d88a63f9cd10147770a1b4ebda)
