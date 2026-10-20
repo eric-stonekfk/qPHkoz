@@ -166,3 +166,4 @@
 - [新市民群体保障补齐，外来人口公共服务均等化](https://github.com/eric-stonekfk/qPHkoz/commit/7ce1f4a6ce6f30b3eb9970efe30c50b973909935)
 - [软体家具出口保持韧性家居企业海外市场拓展现状](https://github.com/eric-stonekfk/qPHkoz/commit/4404e327c1c7d5bf43d0cda26635e2d34a6f062a)
 - [气候移民社会讨论，极端天气人口迁移影响](https://github.com/eric-stonekfk/qPHkoz/commit/f041807a23568e64cdd5e6a72fe19fa128b1313b)
+- [大模型本地函数调用插件框架，自定义工具扩展快速搭建Agent应用](https://github.com/eric-stonekfk/qPHkoz/commit/296711718c1820cc6a282c6631e0902c30f09fd1)
