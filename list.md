@@ -138,3 +138,4 @@
 - [git lfs指针完整性校验，校验lfs指针文件格式与哈希](https://github.com/eric-stonekfk/qPHkoz/commit/275118c78e2bfeffebb8f41ac89802ed0d0fdb1b)
 - [多文件合并拆分开源工具 完整源码实现文件分割合并处理](https://github.com/eric-stonekfk/qPHkoz/commit/3751c593d66c2922304f05496ed31b268b606bcd)
 - [开源OCR项目，特殊字符识别效果很差](https://github.com/eric-stonekfk/qPHkoz/commit/5eb532765278353a9562aa96fe7807e73d466630)
+- [预发布版本与正式版本区分，版本号规范争议](https://github.com/eric-stonekfk/qPHkoz/commit/56853825b5b8df523f81be7337e8efd63d1a7fb0)
