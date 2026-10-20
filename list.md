@@ -39,3 +39,4 @@
 - [开源轻量解决方案 完整源码附从零开始搭建示例](https://github.com/eric-stonekfk/qPHkoz/commit/8dd014c9d356ae63a5064b40e8840e5e2c56a6d1)
 - [markdown引用块转换工具，段落与引用块互相批量转换](https://github.com/eric-stonekfk/qPHkoz/commit/1e6584d166903fa1e6bbc843ee0faaf7fc8e93ce)
 - [ftp批量同步备份脚本，本地目录与ftp双向增量同步备份](https://github.com/eric-stonekfk/qPHkoz/commit/888ca3f1ed46fae1e7bbe140f19aed7c85a18bf1)
+- [通用业务配置模板仓库 完整源码收集各类业务参考模板](https://github.com/eric-stonekfk/qPHkoz/commit/80603c66eaeca7fa928dbffafc182d199104e1c8)
