@@ -131,3 +131,4 @@
 - [开源数字人项目，肖像权风险如何规避](https://github.com/eric-stonekfk/qPHkoz/commit/bd5b77c69455ea8aff6e774d95107db26e97a41b)
 - [图片批量图片灰度转换，批量将彩色图片转为灰度图](https://github.com/eric-stonekfk/qPHkoz/commit/281a179a0a7a80a93171727c2a6a9487f0b54394)
 - [商业银行净息差逐步企稳，银行业盈利压力得到缓解](https://github.com/eric-stonekfk/qPHkoz/commit/677b613dcb13401cc82bcfedbe75f9c85f291dcb)
+- [券商资管业务转型大集合产品向净值化全面过渡](https://github.com/eric-stonekfk/qPHkoz/commit/c658ac18a86749efb084d16c7e0ac885c47ccc69)
