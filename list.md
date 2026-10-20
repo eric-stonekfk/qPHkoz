@@ -86,3 +86,4 @@
 - [json 请求体解析源码 完整源码 http json 请求体解析处理](https://github.com/eric-stonekfk/qPHkoz/commit/75ed2b08606cc83f4e9d9ff950a538d162d1b7c9)
 - [新兴产业快速扩张，部分赛道出现过度内卷竞争](https://github.com/eric-stonekfk/qPHkoz/commit/b1da1eb3d119d4b109b293fc3faac1476ee422c3)
 - [正则 Demo 开源工程库 全套源码包含配置模板样例文件](https://github.com/eric-stonekfk/qPHkoz/commit/74ba3e7e407ebe3c3c7ae7fe1fc78c481d0fc1d4)
+- [开源知识库仓库规避 AI 空洞无价值内容](https://github.com/eric-stonekfk/qPHkoz/commit/3be60bc36a66e8dfd414c6677905a4164efc2499)
