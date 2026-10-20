@@ -90,3 +90,4 @@
 - [markdown文档导出chm，批量文档打包编译帮助文档](https://github.com/eric-stonekfk/qPHkoz/commit/6130d2e5a331e27b4fd6ca9e33c9a363eca1fdda)
 - [市场优胜劣汰，是行业走向成熟的必经过程](https://github.com/eric-stonekfk/qPHkoz/commit/a70a23b0f69c6c06a3cf7956bc589e2dafaa769e)
 - [API合约测试，保证服务升级不破坏调用方](https://github.com/eric-stonekfk/qPHkoz/commit/9b5207e0439feda98bc0c1a7a4ac793a3100c631)
+- [向量数据库升级灾难，存储格式变更数据不可读](https://github.com/eric-stonekfk/qPHkoz/commit/210deb4a26b01fa0d19dbb9a36f117a7b2c78dec)
