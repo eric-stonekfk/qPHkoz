@@ -52,3 +52,4 @@
 - [轻量开源代码库 二次开发参考与环境搭建教程](https://github.com/eric-stonekfk/qPHkoz/commit/8b2daac9013db2defcf9b013e39d37ce00b2382e)
 - [服务故障降级兜底 Demo 完整源码异常返回兜底业务数据](https://github.com/eric-stonekfk/qPHkoz/commit/a0eaeb585f18dd65baebe8edcfe342bc35f8b11b)
 - [文件类型嗅探脚本，根据文件头真实判断文件规避后缀欺骗](https://github.com/eric-stonekfk/qPHkoz/commit/e0f65226965e904e90304b2bfe7a920b545cb108)
+- [大模型时代开发者能力变化，哪些能力会被弱化](https://github.com/eric-stonekfk/qPHkoz/commit/cbca3e9f022dda4b58a4cd41d335041c80b7c0c5)
