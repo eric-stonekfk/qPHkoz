@@ -144,3 +144,4 @@
 - [居民医保断缴后果普通人千万不要忽视医保断缴风险](https://github.com/eric-stonekfk/qPHkoz/commit/c2f516e8068a7334a3ebb6c5cba229d5179b3078)
 - [图片批量去除图片元数据缩略图，清除内嵌缩略图信息](https://github.com/eric-stonekfk/qPHkoz/commit/3b687dc93a3761cfb89daa64520ab604bf90cf4b)
 - [分布式云架构，算力跨地域分布式调度](https://github.com/eric-stonekfk/qPHkoz/commit/2d4c9c9a98b418b562085c0a9a34edd18b4df5ae)
+- [面向开发人员开源资源库 完整实现附带踩坑解决文档](https://github.com/eric-stonekfk/qPHkoz/commit/0c6a78a2d6d715508e5dbbf833885a33736acca9)
