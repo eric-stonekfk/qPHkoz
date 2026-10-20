@@ -119,3 +119,4 @@
 - [github仓库secret‑scanning泄露告警导出，批量导出密钥泄露告警列表](https://github.com/eric-stonekfk/qPHkoz/commit/628ff431cc2184b7d284c98787141264afaf869a)
 - [GitHub仓库Codeowners责任人匹配解析工具](https://github.com/eric-stonekfk/qPHkoz/commit/39018070a142086351705aa9fefc2e447398713e)
 - [跨平台文件工具开源组件 源码资源含多环境测试演示工程](https://github.com/eric-stonekfk/qPHkoz/commit/f8f57975684ed7a5cb863163d52765ada99a7f1e)
+- [通用业务组件实战合集 完整实现附带部署性能调优教程](https://github.com/eric-stonekfk/qPHkoz/commit/a5121dfd87f57735252ff915698c3fd4a7aa8d9b)
